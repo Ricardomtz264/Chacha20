@@ -1,0 +1,8 @@
+chacha20.c:4:17:rotl32	16	static
+chacha20.c:9:17:pack4	24	static
+chacha20.c:19:13:unpack4	16	static
+chacha20.c:26:13:chacha20_init_block	32	static
+chacha20.c:53:13:chacha20_block_set_counter	32	static
+chacha20.c:59:13:chacha20_block_next	32	static
+chacha20.c:100:6:chacha20_init_context	24	static
+chacha20.c:111:6:chacha20_xor	32	static

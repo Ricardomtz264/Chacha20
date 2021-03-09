@@ -1,0 +1,4 @@
+lwip_tcpecho_freertos.c:91:5:main	56	static
+lwip_tcpecho_freertos.c:146:6:test_task	16	static
+lwip_tcpecho_freertos.c:162:13:InitCrc32	32	static
+lwip_tcpecho_freertos.c:190:6:aescrc_Enc	432	static
